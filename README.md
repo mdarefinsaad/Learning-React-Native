@@ -15,4 +15,14 @@ This repository was created as a personal learning project while undertaking a R
 This project aims to be a valuable resource for anyone interested in learning React Native and building mobile applications with a focus on clean code and effective design patterns.
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://expo.dev/" target="_blank" rel="noreferrer"> <img src="https://blog.kakaocdn.net/dn/dTf2xp/btsIRxOocZw/onKt7pPNl0L0BVQ3uxP4QK/img.png" alt="reactnative" width="40" height="40"/></a></p>
+<p align="left">
+    <span>
+        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+    </span>&nbsp;&nbsp;
+    <span>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    </span>&nbsp;&nbsp;
+    <span>
+        <img src="https://blog.kakaocdn.net/dn/dTf2xp/btsIRxOocZw/onKt7pPNl0L0BVQ3uxP4QK/img.png" alt="reactnative" width="40" height="40"/>
+    </span>&nbsp;&nbsp;
+</p>
